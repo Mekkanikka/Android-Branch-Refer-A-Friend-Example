@@ -97,7 +97,6 @@ public class MainActivity extends AppCompatActivity {
                                 startActivity(i);
                             }
                         } catch (JSONException e) {
-
                         }
                     } else {
                         //do stuff without Branch link data
